@@ -1,0 +1,25 @@
+# === Zunkey Klein Story ===
+
+# Temporary / runtime data
+TMP/
+__pycache__/
+*.pyc
+*.pyo
+
+# User settings (generated at runtime)
+zunkey_klein_story_settings.json
+zunkey_klein_story_settings_last.txt
+settings_presets/
+
+# Old version backups (history is in git)
+_bak/
+Zunkey_Klein_Story_v22_compact_*.py
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
